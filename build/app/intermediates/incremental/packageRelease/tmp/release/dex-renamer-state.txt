@@ -1,0 +1,4 @@
+#Tue May 30 16:32:40 IST 2023
+base.0=/home/nithinbabu/StudioProjects/crud/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
